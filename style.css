@@ -1,3 +1,4 @@
 body {
     font-style: italic;
+    background: linear-gradient(250deg, red,green,blue);
 }
